@@ -2,6 +2,7 @@
 ## Interested in
 - Quantitative Finance
 - Physical Modelling
+- Photonic Computing
 - AI / ML
 ## Languages
 - Python
