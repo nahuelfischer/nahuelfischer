@@ -10,5 +10,5 @@
 - Java
 
 
-Currently doing some small projects until I  start my BSc in CS or CSE.
+Currently doing some small projects until I  start my BSc in CS.
 
